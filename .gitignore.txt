@@ -1,0 +1,10 @@
+# Ignore backup and temp files
+*.screenshots
+*.local
+*.user
+*.suo
+*.log
+.project.lock.json
+
+# Ignore output folders
+PublishOutput/
